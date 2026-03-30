@@ -36,7 +36,3 @@ All trademarks and copyrights belong to their respective owners.
 ## 📌 Author
 
 **Samprit Datta**
-
-## ⭐ If you like this project
-
-Give it a star on GitHub!
