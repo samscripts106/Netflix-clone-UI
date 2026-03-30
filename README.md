@@ -1,24 +1,42 @@
 # 🎬 Netflix Clone UI
 
-A simple front-end clone of the Netflix landing page built using HTML and CSS.
+## 📷 Preview
 
-## 🚀 Features
+![Preview](preview.png)
 
-* Responsive design
-* Clean UI similar to Netflix
-* Modern layout and styling
+## 🚀 About the Project
 
-## ⚠️ Disclaimer
+This is a front-end clone of the Netflix landing page built using HTML and CSS.
+The goal of this project was to practice layout design, responsiveness, and UI replication.
 
-This project is created for educational purposes only.
-It is **not affiliated with, endorsed by, or connected to Netflix in any way**.
-All trademarks and copyrights belong to their respective owners.
+## ✨ Features
+
+* Responsive Netflix-style UI
+* Clean and modern design
+* Hero section with background image
+* Styled buttons and layout
 
 ## 🛠️ Tech Stack
 
-* HTML
-* CSS
+* HTML5
+* CSS3
+
+## ⚠️ Disclaimer
+
+This project is created for **educational purposes only**.
+It is **not affiliated with, endorsed by, or connected to Netflix**.
+All trademarks and copyrights belong to their respective owners.
+
+## 📂 Project Structure
+
+* `index.html` → Main page
+* `style.css` → Styling
+* `assets/` → Images and media
 
 ## 📌 Author
 
-* Samprit Datta
+**Samprit Datta**
+
+## ⭐ If you like this project
+
+Give it a star on GitHub!
